@@ -29,11 +29,11 @@ npm run dev
 
 Open [http://localhost:3000](http://localhost:3000) with your browser to see the result.
 
-How to Contribute
+## How to Contribute
 Contributions are always welcome! Please check the Code of Conduct .
 
-License
+## License
 This project is licensed under the MIT License.
 
-Support
+## Support
 If you have any questions or need help getting started, please open an issue in the repository or contact me on Twitter: @tanja_codes
