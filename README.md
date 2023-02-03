@@ -1,3 +1,24 @@
+# Ceramic Connect
+Web3 Connect for Ceramic
+
+## Installation
+
+```bash
+npm install @ceramicstudio/connect
+```
+
+Make sure you have the following peer dependencies installed:
+
+```bash
+npm install
+npm install web3modal
+npm install ethers
+npm i @ethersproject/providers
+
+
+
+
+
 This is a [Next.js](https://nextjs.org/) project bootstrapped with [`create-next-app`](https://github.com/vercel/next.js/tree/canary/packages/create-next-app).
 
 ## Getting Started
